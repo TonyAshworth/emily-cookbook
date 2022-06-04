@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Chicken Salsa
 date: 
 tags:
+- Dump and Go
 - Crock Pot
 - Chicken
 description: 'Such a tasty and simple dish to make! This is my go to dish to bring
