@@ -3,9 +3,9 @@ permalink: posts/{{ title | slug }}/index.html
 title: Creamy White Chili
 date: 
 tags:
-- chicken
-- dump and go
-- crock pot
+- Crock Pot
+- Chicken
+- Dump and Go
 description: A creamy, filling white chili. Very yummy served with tortilla chips!
 
 ---
