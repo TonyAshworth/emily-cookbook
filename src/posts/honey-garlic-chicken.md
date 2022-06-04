@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Honey Garlic Chicken
 date: 
 tags:
+- Dump and Go
 - Instant Pot
 - Asian
 - Chicken
