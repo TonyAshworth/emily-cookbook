@@ -3,7 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Pork Roast
 date: 
 tags:
-- Beef
+- Pork
 - Dump and Go
 description: This is a classic roast with veggies, the longer you cook it the better
   it tastes!
