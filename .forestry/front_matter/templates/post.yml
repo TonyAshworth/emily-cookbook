@@ -21,6 +21,7 @@ fields:
   hidden: true
 pages:
 - src/posts/bacon-wrapped-chicken.md
+- src/posts/basic-shredded-chicken.md
 - src/posts/black-bean-chili.md
 - src/posts/buffalo-chicken-burgers.md
 - src/posts/cheesy-chicken.md
