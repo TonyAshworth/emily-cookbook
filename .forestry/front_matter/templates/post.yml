@@ -20,5 +20,6 @@ fields:
   default: posts/{{ title | slug }}/index.html
   hidden: true
 pages:
+- src/posts/black-bean-chili.md
 - src/posts/creamy-white-chili.md
 - src/posts/hawaiian-chicken-sandwiches.md
