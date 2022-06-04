@@ -20,6 +20,7 @@ fields:
   default: posts/{{ title | slug }}/index.html
   hidden: true
 pages:
+- src/posts/bacon-wrapped-chicken.md
 - src/posts/black-bean-chili.md
 - src/posts/buffalo-chicken-burgers.md
 - src/posts/chicken-pot-pie-casserole.md
