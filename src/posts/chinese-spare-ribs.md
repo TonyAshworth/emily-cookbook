@@ -8,16 +8,14 @@ tags:
 description: These are incredibly easy, and taste amazing. A family favorite!
 
 ---
-1/2 C soy sauce
-
-1/3 C honey
-
-rack of spare ribs
+* 1/2 C soy sauce
+* 1/3 C honey
+* rack of spare ribs
 
 Preheat oven to 350. Remove membrane from the back of the ribs, and slice into individual ribs.
 
-Mix honey and soy sauce in bowl. 
+Mix honey and soy sauce in bowl.
 
-Place cut ribs meat side down on a foil lined sheet. Pour half of sauce over ribs, reserving over half in fridge. Cover ribs with foil and bake for one hour. 
+Place cut ribs meat side down on a foil lined sheet. Pour half of sauce over ribs, reserving over half in fridge. Cover ribs with foil and bake for one hour.
 
-Remove ribs from oven. Uncover, pour remaining sauce over ribs, and bake another 30 minutes. 
+Remove ribs from oven. Uncover, pour remaining sauce over ribs, and bake another 30 minutes.
