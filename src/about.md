@@ -1,14 +1,8 @@
 ---
-title: About Aidan Charles Powell
+title: About Emily Ashworth
 layout: about.njk
-name: Aidan Charles Powell
+name: Emily Ashworth
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
-
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
-
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+Emily Ashworth is a mother of three and has celiac disease.  She has live all over the east coast and shares her home with her 3 cats, her loving husband, her mother, and her two youngest boys.
