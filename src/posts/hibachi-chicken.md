@@ -11,32 +11,40 @@ description: 'This is definitely one of those recipes that feels like comfort fo
   to me, it is so familiar and yummy. '
 
 ---
-bs chicken boobs, cut into chunks
+* bs chicken boobs, cut into chunks
 
-2 zucchini, sliced into rounds
 
-6 mushrooms, sliced
+* 2 zucchini, sliced into rounds
 
-optional onion, sliced
 
-1/4 C water with 1 Tbs cornstarch mixed in
+* 6 mushrooms, sliced
 
-_sauce:_ 
 
-1/4 C soy sauce
+* optional onion, sliced
 
-2 Tbs apple cider vinegar
 
-1/4 tsp ginger 
+* 1/4 C water with 1 Tbs cornstarch mixed in
 
-1 tsp minced garlic
+_sauce:_
 
-1 Tbs sugar
+* 1/4 C soy sauce
 
-Add sauce ingredients to instant pot, then add chicken and onion. 
 
-Seal and cook on high for 5 minutes. Immediately release the pressure, carefully. 
+* 2 Tbs apple cider vinegar
 
-Stir in cornstarch slurry, and one minute later add zucchini, and stir. I know it's a full pot, but it works! 
+
+* 1/4 tsp ginger
+
+
+* 1 tsp minced garlic
+
+
+* 1 Tbs sugar
+
+Add sauce ingredients to instant pot, then add chicken and onion.
+
+Seal and cook on high for 5 minutes. Immediately release the pressure, carefully.
+
+Stir in cornstarch slurry, and one minute later add zucchini, and stir. I know it's a full pot, but it works!
 
 This is amazing served with rice, or in lettuce wraps!
