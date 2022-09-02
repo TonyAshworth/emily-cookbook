@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: Mild Jerk Chicken
 date: 
 tags:
-- Instant Pot
-- Chicken
+- instant pot
+- chicken
 description: 'The mild heat of this dish has made it a favorite of my family, even
   my kids! '
 

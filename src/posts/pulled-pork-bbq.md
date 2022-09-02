@@ -3,9 +3,9 @@ permalink: posts/{{ title | slug }}/index.html
 title: 'Pulled Pork BBQ '
 date: 
 tags:
-- Crock Pot
-- Dump and Go
-- Pork
+- crock pot
+- dump and go
+- pork
 description: We eat this on toasted buns, so yummy!
 
 ---

@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: Honey Mustard Chicken Salad
 date: 
 tags:
-- Cold Dish
-- Chicken
+- cold dish
+- chicken
 description: The flavor of the dressing is divine, and you can totally mix up your
   salad ingredients to change it up!
 

@@ -3,10 +3,10 @@ permalink: posts/{{ title | slug }}/index.html
 title: 'Hibachi Chicken '
 date: 
 tags:
-- Dump and Go
-- Asian
-- Instant Pot
-- Chicken
+- dump and go
+- asian
+- instant pot
+- chicken
 description: 'This is definitely one of those recipes that feels like comfort food
   to me, it is so familiar and yummy. '
 

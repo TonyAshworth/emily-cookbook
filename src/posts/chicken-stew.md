@@ -3,9 +3,9 @@ permalink: posts/{{ title | slug }}/index.html
 title: Chicken Stew
 date: 
 tags:
-- Dump and Go
-- Crock Pot
-- Chicken
+- dump and go
+- crock pot
+- chicken
 description: 'This is comfort food at it''s finest! '
 
 ---

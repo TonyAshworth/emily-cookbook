@@ -3,9 +3,9 @@ permalink: posts/{{ title | slug }}/index.html
 title: 'Thai Crunch Salad '
 date: 
 tags:
-- Asian
-- Chicken
-- Cold Dish
+- asian
+- chicken
+- cold dish
 description: 'The peanut flavor is divine in this recipe! We eat it as is, or leave
   out the chicken and use it with Hibachi Chicken for lettuce wrap filling. '
 

@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: 'Honey Mustard Chicken '
 date: 
 tags:
-- Instant Pot
-- Chicken
+- instant pot
+- chicken
 description: 'The sweet honey mustard is a mild flavor, that goes perfectly with this
   new take on comfort food! '
 

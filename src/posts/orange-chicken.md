@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: Orange Chicken
 date: 
 tags:
-- Chicken
-- Asian
+- chicken
+- asian
 description: 'Such an easy dish to make, and it really wows served on rice with broccoli!
   We use chicken but you can use shrimp or pork chops and it is equally amazing! '
 

@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: Basic Shredded Chicken
 date: 
 tags:
-- Chicken
-- Crock Pot
+- chicken
+- crock pot
 description: This is excellent to make ahead of time, and use when you are in a rush!
 
 ---

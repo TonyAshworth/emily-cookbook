@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: Pork Loin
 date: 
 tags:
-- Crock Pot
-- Pork
+- crock pot
+- pork
 description: Let's talk pork loins!
 
 ---

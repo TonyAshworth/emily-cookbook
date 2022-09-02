@@ -3,7 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Buffalo Chicken Burgers
 date: 
 tags:
-- Chicken
+- chicken
 description: 'You can make these as mild or as hot as you want to, they are just so
   tasty! And the sauce, oh it takes the sandwiches to the next level. We eat these
   on Udi''s gluten free buns with lettuce. '

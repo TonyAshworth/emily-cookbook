@@ -3,7 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: 'Cheesy Chicken '
 date: 
 tags:
-- Chicken
+- chicken
 description: 'I know, this has spinach in it and I eat it - but it is so good I don''t
   mind the spinach HA! This is so good, we fight over the leftovers. '
 

@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: Chinese Spare Ribs
 date: 
 tags:
-- Asian
-- Pork
+- asian
+- pork
 description: These are incredibly easy, and taste amazing. A family favorite!
 
 ---

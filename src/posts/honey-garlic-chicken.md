@@ -3,10 +3,10 @@ permalink: posts/{{ title | slug }}/index.html
 title: Honey Garlic Chicken
 date: 
 tags:
-- Dump and Go
-- Instant Pot
-- Asian
-- Chicken
+- dump and go
+- instant pot
+- asian
+- chicken
 description: 'This is a classic flavor you might find at a mall food court! I serve
   this over white rice, with broccoli. '
 

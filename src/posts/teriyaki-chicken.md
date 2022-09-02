@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: 'Teriyaki Chicken '
 date: 
 tags:
-- Asian
-- Chicken
+- asian
+- chicken
 description: This is hands down the easiest recipe to make, and it wows everyone we
   make it for! My sister in law requests this every time she visits us. It is excellent
   served over rice! You can make this sauce for many proteins - it is good on beef,

@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: Pork Chops
 date: 
 tags:
-- Instant Pot
-- Pork
+- instant pot
+- pork
 description: 'This simple recipe gives the chops a bit of a sweet flavor to them,
   and the texture is divine. They come out moist and flavorful - I can''t stand overcooked,
   dry, chewy pork chops! '

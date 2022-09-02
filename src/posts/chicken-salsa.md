@@ -3,9 +3,9 @@ permalink: posts/{{ title | slug }}/index.html
 title: Chicken Salsa
 date: 
 tags:
-- Dump and Go
-- Crock Pot
-- Chicken
+- dump and go
+- crock pot
+- chicken
 description: 'Such a tasty and simple dish to make! This is my go to dish to bring
   friends in need - it feeds a family effortlessly and is very kid friendly too. We
   serve with tortilla chips and shredded cheese. '

@@ -2,7 +2,8 @@
 permalink: posts/{{ title | slug }}/index.html
 title: 'Bacon Wrapped Chicken '
 date: 
-tags: []
+tags:
+- chicken
 description: This is a crowd pleaser! Easy to prepare, and oh so yummy. Thank you
   Paula Deen, for this amazing recipe!
 

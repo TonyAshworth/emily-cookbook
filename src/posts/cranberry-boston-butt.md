@@ -3,9 +3,9 @@ permalink: posts/{{ title | slug }}/index.html
 title: Cranberry Boston Butt
 date: 
 tags:
-- Crock Pot
-- Dump and Go
-- Pork
+- crock pot
+- dump and go
+- pork
 description: 'This is so flavorful, and feeds plenty depending on the size of your
   butt - heh. '
 
