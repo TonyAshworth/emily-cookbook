@@ -1,6 +1,6 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
-title: Momma's Meatloaf
+title: Mommas Meatloaf
 date: 
 tags:
 - beef
