@@ -3,8 +3,8 @@ permalink: posts/{{ title | slug }}/index.html
 title: Teriyaki Salmon Bites
 date: 
 tags:
-- "#asian"
-- "#fish"
+- asian
+- fish
 description: Excellent, easy meal to prepare!
 
 ---
