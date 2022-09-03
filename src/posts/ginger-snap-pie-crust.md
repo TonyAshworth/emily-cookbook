@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Ginger Snap Pie Crust
 date: 
 tags:
+- pie
 - baked goods
 description: ''
 
