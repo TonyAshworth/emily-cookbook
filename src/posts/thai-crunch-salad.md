@@ -17,9 +17,9 @@ description: 'The peanut flavor is divine in this recipe! We eat it as is, or le
 * 3 Tbs chopped cilantro (I don't add this, its soap)
 * cucumber, thinly sliced (english cucumber is excellent in this)
 
+For dressing:
 
-* _For dressing:  
-  _4 Tbs smooth peanut butter
+* 4 Tbs smooth peanut butter
 * 2 Tbs honey
 * 2 Tbs warm water
 * 1 1/2 Tbs soy sauce
