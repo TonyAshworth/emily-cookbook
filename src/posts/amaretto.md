@@ -3,7 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: 'Amaretto '
 date: 
 tags:
-- drinks
+- adult drinks
 description: ''
 
 ---
