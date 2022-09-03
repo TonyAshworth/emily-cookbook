@@ -17,19 +17,23 @@
       "text": "About",
       "url": "/about",
       "external": false
-    }
-  ],
-  "socialLinks": [
+    },
     {
       "text": "GitHub",
       "url": "https://github.com/TonyAshworth/emily-cookbook",
       "external": true
     }
   ],
+  "socialLinks": [],
   "footerLinks": [
     {
       "text": "RSS",
       "url": "/feed.xml",
+      "external": true
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/TonyAshworth/emily-cookbook",
       "external": true
     }
   ],
