@@ -1,6 +1,6 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
-title: Emily's Awesome Salmon Steaks
+title: Emilys Awesome Salmon Steaks
 date: 
 tags:
 - fish
