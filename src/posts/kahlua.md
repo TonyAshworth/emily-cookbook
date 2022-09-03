@@ -2,7 +2,8 @@
 permalink: posts/{{ title | slug }}/index.html
 title: Kahlua
 date: 
-tags: []
+tags:
+- adult drinks
 description: ''
 
 ---
