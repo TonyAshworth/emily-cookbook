@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Banana Cupcakes
 date: 
 tags:
+- cakes
 - baked goods
 description: ''
 
