@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Emily's Cookbook'
+title: 'Emilys Cookbook'
 ---
 
 # Welcome to Emily's Cookbook!
