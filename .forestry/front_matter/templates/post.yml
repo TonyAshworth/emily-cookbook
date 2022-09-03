@@ -20,12 +20,14 @@ fields:
   default: posts/{{ title | slug }}/index.html
   hidden: true
 pages:
+- src/posts/amaretto.md
 - src/posts/bacon-wrapped-chicken.md
 - src/posts/bacon-wrapped-ribs.md
 - src/posts/baked-tilapia.md
 - src/posts/basic-shredded-chicken.md
 - src/posts/bbq-meatballs.md
 - src/posts/beef-stew.md
+- src/posts/berry-breeze.md
 - src/posts/black-bean-chili.md
 - src/posts/buffalo-chicken-burgers.md
 - src/posts/cheesy-chicken.md
@@ -43,6 +45,7 @@ pages:
 - src/posts/creamy-white-chili.md
 - src/posts/easy-bahn-mi-rice-bowls.md
 - src/posts/easy-cheesy-pasta-bake.md
+- src/posts/easy-milkshakes.md
 - src/posts/easy-sesame-beef.md
 - src/posts/firecracker-chicken.md
 - src/posts/fish-tacos.md
@@ -55,12 +58,15 @@ pages:
 - src/posts/honey-garlic-pork-chops.md
 - src/posts/honey-mustard-chicken-salad.md
 - src/posts/honey-mustard-chicken.md
+- src/posts/hot-pizza-dip.md
 - src/posts/instant-pot-baked-potatoes.md
 - src/posts/italian-chicken.md
+- src/posts/kahlua.md
 - src/posts/korean-beef.md
 - src/posts/mild-jerk-chicken.md
 - src/posts/mustard-tilapia.md
 - src/posts/orange-chicken.md
+- src/posts/orange-dreamsicle.md
 - src/posts/orange-pork-chops.md
 - src/posts/parmesan-crusted-tilapia.md
 - src/posts/parmesan-shrimp.md

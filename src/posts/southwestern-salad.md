@@ -27,8 +27,19 @@ Pico de gallo:
 * juice of half a lime
 * salt to taste
 
-Make pico de gallo, can be done a day ahead. 
+Make pico de gallo, can be done a day ahead.
 
-Stir together desired amts of ranch and salsa (I like half and half) and set aside. 
+Stir together desired amts of ranch and salsa (I like half and half) and set aside.
 
-Mix salad together, and add desired amt of pico de gallo and dressing. Serve immediately. 
+Mix salad together, and add desired amt of pico de gallo and dressing. Serve immediately.
+
+\*this was adapted from a recipe found on Iowa Girl Eats site, and she has a recipe for an amazing cilantro chili lime dressing if you don't like the ranch salsa! 
+
+* 1/3 cup packed cilantro leaves, roughly chopped
+* 1/4 cup fresh lime juice
+* 1/4 cup extra virgin olive oil
+* 1 Tablespoon honey
+* 1/2 teaspoon chili powder
+* salt and pepper
+
+Blend all in a food processor or blender until smooth.
