@@ -1,6 +1,6 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
-title: Orange Chicken, two ways!
+title: Orange Chicken, two ways
 date: 
 tags:
 - chicken
