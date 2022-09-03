@@ -20,6 +20,7 @@ fields:
   default: posts/{{ title | slug }}/index.html
   hidden: true
 pages:
+- src/posts/amaretto.md
 - src/posts/bacon-wrapped-chicken.md
 - src/posts/bacon-wrapped-ribs.md
 - src/posts/baked-tilapia.md
