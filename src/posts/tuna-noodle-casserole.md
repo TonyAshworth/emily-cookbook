@@ -3,7 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Tuna Noodle Casserole
 date: 
 tags:
-- fish
+- seafood
 description: ''
 
 ---
