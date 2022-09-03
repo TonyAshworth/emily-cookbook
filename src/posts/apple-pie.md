@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Apple Pie
 date: 
 tags:
+- breakfast
 - pie
 - baked goods
 description: ''
