@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Jordan Marsh Blueberry Muffins
 date: 
 tags:
+- breads
 - baked goods
 description: ''
 
