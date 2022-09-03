@@ -21,6 +21,7 @@ fields:
   hidden: true
 pages:
 - src/posts/amaretto.md
+- src/posts/apple-pie.md
 - src/posts/bacon-wrapped-chicken.md
 - src/posts/bacon-wrapped-ribs.md
 - src/posts/baked-tilapia.md
@@ -39,11 +40,13 @@ pages:
 - src/posts/chicken-salsa.md
 - src/posts/chicken-stew.md
 - src/posts/chicken-wings.md
+- src/posts/chicken-with-peppers.md
 - src/posts/chicken-zucchini-casserole.md
 - src/posts/chinese-spare-ribs.md
 - src/posts/cinnamon-apple-pork-tenderloin.md
 - src/posts/cobb-salad.md
 - src/posts/cranberry-boston-butt.md
+- src/posts/creamy-chicken-carbonara.md
 - src/posts/creamy-white-chili.md
 - src/posts/easy-bahn-mi-rice-bowls.md
 - src/posts/easy-cheesy-pasta-bake.md
@@ -51,7 +54,9 @@ pages:
 - src/posts/easy-sesame-beef.md
 - src/posts/firecracker-chicken.md
 - src/posts/fish-tacos.md
+- src/posts/general-tony-s-chicken.md
 - src/posts/goulash.md
+- src/posts/grilled-chicken-with-hot-strawberry-salsa.md
 - src/posts/hamburger-helper-without-the-box.md
 - src/posts/hawaiian-chicken-sandwiches.md
 - src/posts/hibachi-chicken.md
@@ -63,6 +68,7 @@ pages:
 - src/posts/hot-pizza-dip.md
 - src/posts/instant-pot-baked-potatoes.md
 - src/posts/italian-chicken.md
+- src/posts/jordan-marsh-blueberry-muffins.md
 - src/posts/kahlua.md
 - src/posts/korean-beef.md
 - src/posts/mild-jerk-chicken.md
