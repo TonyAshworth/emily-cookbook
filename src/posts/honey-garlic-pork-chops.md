@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Honey Garlic Pork Chops
 date: 
 tags:
+- crock pot
 - dump and go
 - pork
 description: ''
