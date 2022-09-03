@@ -21,6 +21,7 @@ fields:
   hidden: true
 pages:
 - src/posts/amaretto.md
+- src/posts/apple-crisp.md
 - src/posts/apple-pie.md
 - src/posts/bacon-wrapped-chicken.md
 - src/posts/bacon-wrapped-ribs.md
