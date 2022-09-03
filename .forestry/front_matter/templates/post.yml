@@ -21,6 +21,7 @@ fields:
   hidden: true
 pages:
 - src/posts/bacon-wrapped-chicken.md
+- src/posts/bacon-wrapped-ribs.md
 - src/posts/baked-tilapia.md
 - src/posts/basic-shredded-chicken.md
 - src/posts/bbq-meatballs.md
