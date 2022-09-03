@@ -1,6 +1,6 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
-title: General Tony's Chicken
+title: General Tonys Chicken
 date: 
 tags:
 - asian
