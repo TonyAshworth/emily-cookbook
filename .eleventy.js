@@ -103,8 +103,11 @@ module.exports = function (eleventyConfig) {
         }
       }
     });
+ 
+    // sort tags alphabetiacally
+    sortedTagSet = new Set(Array.from(tagSet).sort());
 
-    return [...tagSet];
+    return [...sortedTagSet];
   });
 
   eleventyConfig.addFilter('pageTags', (tags) => {

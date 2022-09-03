@@ -2,7 +2,7 @@
 {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
   <h3><li>
-      <a href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</a>
+      <a href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</a> ({{ collections[tag].length }})
   </li></h3>
 
 {% endfor %}
