@@ -3,7 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Emilys Awesome Salmon Steaks
 date: 
 tags:
-- fish
+- seafood
 description: This is one of my most famous dishes, everyone loves it who tries it!
 
 ---
