@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Chocolate Cake
 date: 
 tags:
+- cakes
 - baked goods
 description: ''
 
