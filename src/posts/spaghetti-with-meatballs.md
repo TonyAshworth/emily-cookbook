@@ -3,7 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Spaghetti with meatballs
 date: 
 tags:
-- Beef
+- beef
 description: So simple, yet such a comfort food for so many!
 
 ---
