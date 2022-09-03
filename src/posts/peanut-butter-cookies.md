@@ -2,7 +2,9 @@
 permalink: posts/{{ title | slug }}/index.html
 title: Peanut Butter Cookies
 date: 
-tags: []
+tags:
+- christmas cookies
+- baked goods
 description: ''
 
 ---
