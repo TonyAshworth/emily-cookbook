@@ -25,6 +25,7 @@ pages:
 - src/posts/bacon-wrapped-chicken.md
 - src/posts/bacon-wrapped-ribs.md
 - src/posts/baked-tilapia.md
+- src/posts/banana-cranberry-bread.md
 - src/posts/basic-shredded-chicken.md
 - src/posts/bbq-meatballs.md
 - src/posts/beef-stew.md
@@ -55,7 +56,9 @@ pages:
 - src/posts/firecracker-chicken.md
 - src/posts/fish-tacos.md
 - src/posts/general-tony-s-chicken.md
+- src/posts/ginger-snap-pie-crust.md
 - src/posts/goulash.md
+- src/posts/grams-banana-bread.md
 - src/posts/grilled-chicken-with-hot-strawberry-salsa.md
 - src/posts/hamburger-helper-without-the-box.md
 - src/posts/hawaiian-chicken-sandwiches.md
@@ -73,6 +76,7 @@ pages:
 - src/posts/korean-beef.md
 - src/posts/mild-jerk-chicken.md
 - src/posts/mustard-tilapia.md
+- src/posts/no-bake-cheesecake.md
 - src/posts/orange-chicken.md
 - src/posts/orange-dreamsicle.md
 - src/posts/orange-pork-chops.md
