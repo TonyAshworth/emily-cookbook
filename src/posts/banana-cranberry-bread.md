@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Banana Cranberry Bread
 date: 
 tags:
+- breads
 - baked goods
 description: ''
 
