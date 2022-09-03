@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Grams Banana Bread
 date: 
 tags:
+- breads
 - baked goods
 description: ''
 
