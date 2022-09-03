@@ -15,9 +15,7 @@ description: This is a classic roast with veggies, the longer you cook it the be
 * potatoes (bigger ones are better here, you want them to be large cubes and stay somewhat firm)
 * carrots
 * roast
-
-
-* sauce:   
+* sauce:  
   1 C hot water
 * 1/4 C sugar
 * 3 Tbs red wine vinegar
