@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: No Bake Cheesecake
 date: 
 tags:
+- pie
 - baked goods
 description: ''
 
