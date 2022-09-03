@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Cream Cheese Frosting
 date: 
 tags:
+- cakes
 - baked goods
 description: ''
 
