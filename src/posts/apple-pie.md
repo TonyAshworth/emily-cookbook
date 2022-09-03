@@ -3,6 +3,7 @@ permalink: posts/{{ title | slug }}/index.html
 title: Apple Pie
 date: 
 tags:
+- pie
 - baked goods
 description: ''
 
@@ -30,4 +31,4 @@ Preheat oven to 425.
 
 Melt 2 Tbs butter in pie pan in hot oven. Remove from oven.
 
-Pour second bowl into hot buttered pie pan, then pour first bowl into center, leaving the edges just batter. Bake fifteen minutes or until edges look browned. 
+Pour second bowl into hot buttered pie pan, then pour first bowl into center, leaving the edges just batter. Bake fifteen minutes or until edges look browned.
