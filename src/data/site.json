@@ -9,8 +9,8 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
-      "url": "/blog",
+      "text": "All Posts",
+      "url": "/all",
       "external": false
     },
     {
@@ -22,11 +22,6 @@
       "text": "About",
       "url": "/about",
       "external": false
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/TonyAshworth/emily-cookbook",
-      "external": true
     }
   ],
   "socialLinks": [],
